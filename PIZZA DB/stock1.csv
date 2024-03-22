@@ -1,0 +1,30 @@
+"item_name","ing_id","ing_name","ing_weight","ing_price","order_quantity","recipe_quantity","ordered_weight","unit_cost","ingredient_cost"
+"Margherita","ING004","Dried oregano","500","6","5","5","25","0.012","0.3"
+"Margherita","ING003","Mozarella cheese","2500","14","5","170","850","0.0056","4.76"
+"Margherita","ING002","Tomato sauce","4500","4","5","80","400","0.0009","0.3556"
+"Margherita","ING001","Pizza dough ball (8 pack)","2000","4","5","250","1250","0.002","2.5"
+"Diavola","ING006","Chilli pepper","1000","6","7","10","70","0.006","0.42"
+"Diavola","ING005","Spicy salami","3500","38","7","50","350","0.0109","3.8"
+"Diavola","ING003","Mozarella cheese","2500","14","7","170","1190","0.0056","6.664"
+"Diavola","ING002","Tomato sauce","4500","4","7","80","560","0.0009","0.4978"
+"Diavola","ING001","Pizza dough ball (8 pack)","2000","4","7","250","1750","0.002","3.5"
+"Quattro Formaggi","ING001","Pizza dough ball (8 pack)","2000","4","4","300","1200","0.002","2.4"
+"Breadsticks",,,,,"5",,,,
+"Ceasar Salad",,,,,"6",,,,
+"Strawberry Ice Cream",,,,,"2",,,,
+"Napolitana",,,,,"1",,,,
+"Pistachio Ice Cream",,,,,"2",,,,
+"Vanilla Ice Cream",,,,,"1",,,,
+"Chocolate Brownie",,,,,"5",,,,
+"Margherita","ING004","Dried oregano","500","6","1","8","8","0.012","0.096"
+"Margherita","ING003","Mozarella cheese","2500","14","1","200","200","0.0056","1.12"
+"Margherita","ING001","Pizza dough ball (8 pack)","2000","4","1","300","300","0.002","0.6"
+"Napolitana",,,,,"1",,,,
+"Chicken Wings",,,,,"1",,,,
+"Banoffee Pie",,,,,"4",,,,
+"Chocolate Ice Cream",,,,,"1",,,,
+"Parmigiana","ING008","Parmesan cheese","2500","19","2","170","340","0.0076","2.584"
+"Parmigiana","ING007","Eggplant","1000","2","2","120","240","0.002","0.48"
+"Parmigiana","ING003","Mozarella cheese","2500","14","2","170","340","0.0056","1.904"
+"Parmigiana","ING002","Tomato sauce","4500","4","2","80","160","0.0009","0.1422"
+"Parmigiana","ING001","Pizza dough ball (8 pack)","2000","4","2","250","500","0.002","1"
