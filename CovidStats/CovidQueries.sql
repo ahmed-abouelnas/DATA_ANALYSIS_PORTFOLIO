@@ -2,13 +2,6 @@ select * from CovidDeaths
 where continent is not null
 order by 3,4
 
-
-
-ALTER TABLE CovidDeaths
-DROP COLUMN DeathPercentage
-
-ALTER TABLE CovidVaccination ALTER COLUMN new_vaccinations decimal;  
-
 --Covid Death Percentage
 select location, date, total_deaths, total_cases, (cast(total_deaths as decimal)/nullif(total_cases,0))*100 as DeathPercentage
 from CovidDeaths
@@ -72,4 +65,4 @@ CovidDeaths dea
 join CovidVaccination vac
 	on dea.location = vac.location and dea.date = vac.date
 	where dea.continent != ''
-	--order by 2,3
+	
